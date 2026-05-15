@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806926682873",
+    "project_id": "projetoac2-868ac",
+    "storage_bucket": "projetoac2-868ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806926682873:android:349d914c96a7560c64f028",
+        "android_client_info": {
+          "package_name": "com.example.ac2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBntCvGO36Cv8RXFrYbSX5NTWsXQNB-RBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

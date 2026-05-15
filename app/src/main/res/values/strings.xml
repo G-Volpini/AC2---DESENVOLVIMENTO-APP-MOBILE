@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Gerenciador de Livros</string>
+    <string name="titulo_gerenciador">Gerenciaor de Livros</string>
+    <string name="livros_cadastrados">Livros Cadastrados</string>
+    <string name="pesquisar">Pesquisar...</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="cadastrar_novo_livro">Cadastrar Novo Livro</string>
+    <string name="gerenciando_um_livro">Gerenciando Um Livro</string>
+    <string name="titulo">Título</string>
+    <string name="autor">Autor</string>
+    <string name="genero">Gênero</string>
+    <string name="ano_publicacao">Ano de Publicação</string>
+    <string name="status">Status</string>
+    <string name="favoritar">Favoritar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="salvar">Salvar</string>
+    <string name="todos_generos">Todos os Gêneros</string>
+    <string name="confirmacao_exclusao">Tem certeza que deseja excluir este livro?</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="erro_campos_obrigatorios">Por favor, preencha todos os campos obrigatórios</string>
+    <string name="erro_titulo_vazio">Título não pode estar vazio</string>
+    <string name="erro_autor_vazio">Autor não pode estar vazio</string>
+    <string name="erro_genero_invalido">Gênero deve ser selecionado corretamente</string>
+    <string name="erro_ano_vazio">Ano de publicação não pode estar vazio</string>
+    <string name="erro_status_invalido">Status deve ser selecionado corretamente</string>
+    <string name="livro_salvo">Livro salvo com sucesso</string>
+    <string name="livro_atualizado">Livro atualizado com sucesso</string>
+    <string name="livro_excluido">Livro excluído com sucesso</string>
+    <string name="erro_salvar">Erro ao salvar livro</string>
+    <string name="erro_carregar">Erro ao carregar livros</string>
+    <string name="total_livros">Total de livros: </string>
+
+    <string-array name="categorias">
+        <item>Selecione um gênero</item>
+        <item>Romance</item>
+        <item>Fantasia</item>
+        <item>Terror</item>
+        <item>Ficção Científica</item>
+        <item>Biografia</item>
+    </string-array>
+
+    <string-array name="categorias_filtro">
+        <item>Todos os Gêneros</item>
+        <item>Romance</item>
+        <item>Fantasia</item>
+        <item>Terror</item>
+        <item>Ficção Científica</item>
+        <item>Biografia</item>
+    </string-array>
+
+    <string-array name="status_leitura">
+        <item>Selecione um status</item>
+        <item>Quero ler</item>
+        <item>Lendo</item>
+        <item>Concluído</item>
+    </string-array>
+
+</resources>
